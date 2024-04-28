@@ -15,10 +15,6 @@ import matplotlib.patches as mpatches
 from matplotlib.collections import LineCollection
 from matplotlib.colors import ListedColormap, BoundaryNorm
 import matplotlib.colors as mcolors
-# General
-import scipy
-import openpyxl
-import tqdm
 import sys,os
 
 import imageio
