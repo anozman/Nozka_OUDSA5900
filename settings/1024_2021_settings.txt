@@ -1,0 +1,6 @@
+year=2021
+start_day=1024
+HHMMSS_start=000000
+end_day=1025
+HHMMSS_end=000000
+domain=[200,250,35,60]

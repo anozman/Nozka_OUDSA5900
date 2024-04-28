@@ -1,0 +1,6 @@
+year=2022
+start_day=1222
+HHMMSS_start=000000
+end_day=1224
+HHMMSS_end=000000
+domain=[250, 300, 30, 60]
